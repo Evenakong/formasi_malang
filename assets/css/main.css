@@ -906,6 +906,15 @@ section,
   transform: translate(5px, 0);
 }
 
+.content p {
+  text-align: justify;
+}
+
+.col-lg-6 p {
+  text-align: justify;
+}
+
+
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
